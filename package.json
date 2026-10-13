@@ -1,0 +1,1 @@
+{"description":"Live Q&A state relay for the Cozy AF Shop Hub copilot (Slack stays the log; the watcher stays the brain).","engines":{"node":">=20"},"main":"index.js","name":"shop-hub-copilot-relay","private":true,"scripts":{"start":"node index.js"},"version":"1.0.0"}
